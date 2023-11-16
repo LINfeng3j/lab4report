@@ -34,12 +34,12 @@ step8.Run the tests, demonstrating that they now succeed
 __KeyPressed:<up><up><enter>__
 __Since we can see, we just did the tesh before the change, so it is just two up commands above__
 
-step9.Commit and push the resulting change to your GitHub account (you can pick any commit message!)
+step9.Commit and push the resulting change to your GitHub account (you can pick any commit message!)<br>
 ![Image](4.7.png) <br>
-__KeyPressed:<up><up><up><up><up><enter> or git<space>add<space>ListExamples.java<enter>__
+__KeyPressed:<up><up><up><up><up><enter> or git<space>add<space>ListExamples.java<enter>__ <br>
 ![Image](4.8.png) <br>
-__KeyPressed:<up><up><up><up><up><enter> or git<space>commit<space>-m<space>"added ListExamples"<enter>__
-__KeyPressed:<up><up><up><up><up><enter> or git<space>push<enter>__
+__KeyPressed:<up><up><up><up><up><enter> or git<space>commit<space>-m<space>"added ListExamples"<enter>__ <br>
+__KeyPressed:<up><up><up><up><up><enter> or git<space>push<enter>__ <br>
 __Since we keep trying to make these steps faster, the command is not far from the search history. But in normal cases, I still need to git commit and push command on my own, so I also include that case. This command is for uploading to the GitHub repository using the ssh key URL,and since I have made the key to my GitHub, it will work.__
 
 
