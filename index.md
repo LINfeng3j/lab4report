@@ -16,7 +16,7 @@ __Because I deleted the fork and repository, I did not use the previous command 
 Step 6. Run the tests, demonstrating that they fail <br>
 ![Image](4.15.png) <br>
 ````
-KeyPressed: cd <space> lab7
+KeyPressed: cd <space> lab7<enter>
 ````
 __Since it is short, I didn't use search history to find it. Type out go into that directory__ <br>
 ````
