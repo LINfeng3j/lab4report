@@ -19,7 +19,7 @@ __The bash command for the test. sh was five up in the history, So I used the up
 Step 7. Edit the code file to fix the failing test <br>
 ![Image](4.5.png) <br>
 __KeyPressed: <up><up><up><up><up><up><up><enter>__ <br>
-__The vim command for ListExamples.java is seven up in the search history, So I also used the up arrow to access it and get into vim editor mode__
+__The vim command for ListExamples.java is seven up in the search history, So I also used the up arrow to access it and get into vim editor mode__ <br>
 ![Image](4.3.png) <br>
 __KeyPressed: /ex<enter>N(notice I use upper n so it repeat search in opposite direction which leads me to the index that is wrong)__ <br>
 ![Image](4.4.png) <br>
