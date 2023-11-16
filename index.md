@@ -1,17 +1,17 @@
 # Lab Report4
 Step 4. Log into ieng6 <br>
 ![Image](4.1.png) <br>
-__Keypressed：<up><enter>__  <br>
+__Keypressed：'<up><enter>'__  <br>
 __Because I was operating in ieng6 in the previous step in the visual studio terminal, I found the ssh ieng6 command using one upper key to find it, and the key from week three helped me to enter ieng6 without passwords.__ <br>
 
 Step 5. Clone your fork of the repository from your GitHub account (using the SSH URL)<br>
 ![Image](4.2.png) <br>
-__KeyPressed：git<space>clone<space><ctrl-v><enter>__  <br>
+__KeyPressed：'git<space>clone<space><ctrl-v><enter>'__  <br>
 __Because I deleted the fork and repository, I did not use the previous command but re-entered the git clone and copied and pasted the new URL.__ <br>
 
 Step 6. Run the tests, demonstrating that they fail <br>
 ![Image](4.15.png) <br>
-__KeyPressed:cd <space> lab7__  <br>
+__KeyPressed:'cd <space> lab7'__  <br>
 __Since it is short, I didn't use search history to find it. Type out go into that directory__ <br>
 __KeyPressed: <up><up><up><up><up><enter>__  <br>
 __The bash command for the test. sh was five up in the history, So I used the up arrow to access it.__ <br>
